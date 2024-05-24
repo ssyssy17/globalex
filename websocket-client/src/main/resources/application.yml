@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: websocket-client
+
+server:
+  port: 0
+
+websocket:
+  url: wss://open-api-swap.bingx.com/swap-market
+#  url: ws://localhost:8080/ws

@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: websocket-relay
+
+server:
+  port: 8080
+
+websocket:
+  url: wss://open-api-swap.bingx.com/swap-market

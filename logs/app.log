@@ -1,0 +1,248 @@
+2024-05-24 10:27:25.068 [restartedMain] INFO  c.e.w.WebsocketRelayApplication - Starting WebsocketRelayApplication using Java 21.0.3 with PID 6387 (/Users/b-user/IdeaProjects/globalex/websocket-relay/build/classes/java/main started by b-user in /Users/b-user/IdeaProjects/globalex)
+2024-05-24 10:27:25.071 [restartedMain] INFO  c.e.w.WebsocketRelayApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-24 10:27:25.089 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-24 10:27:25.089 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-24 10:27:25.390 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-05-24 10:27:25.394 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-24 10:27:25.394 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-24 10:27:25.395 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-24 10:27:25.408 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-24 10:27:25.408 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 319 ms
+2024-05-24 10:27:25.605 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-05-24 10:27:25.611 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-24 10:27:25.614 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-05-24 10:27:25.618 [restartedMain] INFO  c.e.w.WebsocketRelayApplication - Started WebsocketRelayApplication in 0.713 seconds (process running for 0.944)
+2024-05-24 10:27:30.510 [restartedMain] INFO  c.e.w.WebsocketRelayApplication - Starting WebsocketRelayApplication using Java 21.0.3 with PID 6391 (/Users/b-user/IdeaProjects/globalex/websocket-relay/build/classes/java/main started by b-user in /Users/b-user/IdeaProjects/globalex)
+2024-05-24 10:27:30.511 [restartedMain] INFO  c.e.w.WebsocketRelayApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-24 10:27:30.524 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-24 10:27:30.525 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-24 10:27:30.817 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-05-24 10:27:30.821 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-24 10:27:30.822 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-24 10:27:30.822 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-24 10:27:30.835 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-24 10:27:30.835 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 310 ms
+2024-05-24 10:27:31.013 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-05-24 10:27:31.019 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-24 10:27:31.022 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-05-24 10:27:31.026 [restartedMain] INFO  c.e.w.WebsocketRelayApplication - Started WebsocketRelayApplication in 0.676 seconds (process running for 0.896)
+2024-05-24 10:27:39.768 [restartedMain] INFO  c.e.w.WebsocketClientApplication - Starting WebsocketClientApplication using Java 21.0.3 with PID 6392 (/Users/b-user/IdeaProjects/globalex/websocket-client/build/classes/java/main started by b-user in /Users/b-user/IdeaProjects/globalex)
+2024-05-24 10:27:39.768 [restartedMain] INFO  c.e.w.WebsocketClientApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-24 10:27:39.782 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-24 10:27:39.782 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-24 10:27:40.071 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 0 (http)
+2024-05-24 10:27:40.075 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-auto-1"]
+2024-05-24 10:27:40.076 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-24 10:27:40.076 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-24 10:27:40.089 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-24 10:27:40.089 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 307 ms
+2024-05-24 10:27:40.194 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-24 10:27:40.194 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-05-24 10:27:40.195 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-05-24 10:27:40.259 [restartedMain] WARN  o.s.b.d.a.OptionalLiveReloadServer - Unable to start LiveReload server
+2024-05-24 10:27:40.265 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-auto-1"]
+2024-05-24 10:27:40.268 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 56925 (http) with context path ''
+2024-05-24 10:27:40.272 [restartedMain] INFO  c.e.w.WebsocketClientApplication - Started WebsocketClientApplication in 0.668 seconds (process running for 0.895)
+2024-05-24 10:27:41.146 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=1, gap=123, min=123, max=123, avg=123, sum=123, lose=0)
+2024-05-24 10:27:42.146 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=1, gap=123, min=123, max=123, avg=123, sum=123, lose=0)
+2024-05-24 10:27:43.143 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=2, gap=80, min=80, max=123, avg=102, sum=203, lose=0)
+2024-05-24 10:27:44.146 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=3, gap=87, min=80, max=123, avg=97, sum=290, lose=0)
+2024-05-24 10:27:45.144 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=4, gap=60, min=60, max=123, avg=88, sum=350, lose=0)
+2024-05-24 10:27:46.146 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=5, gap=58, min=58, max=123, avg=82, sum=408, lose=0)
+2024-05-24 10:27:47.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=6, gap=69, min=58, max=123, avg=80, sum=477, lose=0)
+2024-05-24 10:27:48.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=6, gap=69, min=58, max=123, avg=80, sum=477, lose=0)
+2024-05-24 10:27:49.143 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=7, gap=90, min=58, max=123, avg=81, sum=567, lose=0)
+2024-05-24 10:27:50.147 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=8, gap=71, min=58, max=123, avg=80, sum=638, lose=0)
+2024-05-24 10:27:51.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=9, gap=95, min=58, max=123, avg=81, sum=733, lose=0)
+2024-05-24 10:27:52.147 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=10, gap=58, min=58, max=123, avg=79, sum=791, lose=0)
+2024-05-24 10:27:53.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=11, gap=82, min=58, max=123, avg=79, sum=873, lose=0)
+2024-05-24 10:27:54.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=12, gap=104, min=58, max=123, avg=81, sum=977, lose=0)
+2024-05-24 10:27:55.147 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=12, gap=104, min=58, max=123, avg=81, sum=977, lose=0)
+2024-05-24 10:27:56.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=13, gap=115, min=58, max=123, avg=84, sum=1092, lose=0)
+2024-05-24 10:27:57.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=14, gap=133, min=58, max=133, avg=88, sum=1225, lose=0)
+2024-05-24 10:27:58.147 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=15, gap=96, min=58, max=133, avg=88, sum=1321, lose=0)
+2024-05-24 10:27:59.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=15, gap=96, min=58, max=133, avg=88, sum=1321, lose=0)
+2024-05-24 10:28:00.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=16, gap=91, min=58, max=133, avg=88, sum=1412, lose=0)
+2024-05-24 10:28:01.144 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=17, gap=235, min=58, max=235, avg=97, sum=1647, lose=0)
+2024-05-24 10:28:02.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=18, gap=67, min=58, max=235, avg=95, sum=1714, lose=0)
+2024-05-24 10:28:03.144 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=19, gap=89, min=58, max=235, avg=95, sum=1803, lose=0)
+2024-05-24 10:28:04.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=19, gap=89, min=58, max=235, avg=95, sum=1803, lose=0)
+2024-05-24 10:28:05.144 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=20, gap=127, min=58, max=235, avg=97, sum=1930, lose=0)
+2024-05-24 10:28:06.146 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=21, gap=139, min=58, max=235, avg=99, sum=2069, lose=0)
+2024-05-24 10:28:07.144 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=22, gap=104, min=58, max=235, avg=99, sum=2173, lose=0)
+2024-05-24 10:28:08.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=22, gap=104, min=58, max=235, avg=99, sum=2173, lose=0)
+2024-05-24 10:28:09.145 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=23, gap=127, min=58, max=235, avg=100, sum=2300, lose=0)
+2024-05-24 10:28:10.147 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=24, gap=141, min=58, max=235, avg=102, sum=2441, lose=0)
+2024-05-24 10:28:11.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=25, gap=164, min=58, max=235, avg=104, sum=2605, lose=0)
+2024-05-24 10:28:12.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=26, gap=75, min=58, max=235, avg=103, sum=2680, lose=0)
+2024-05-24 10:28:13.144 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=27, gap=96, min=58, max=235, avg=103, sum=2776, lose=0)
+2024-05-24 10:28:14.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=28, gap=121, min=58, max=235, avg=103, sum=2897, lose=0)
+2024-05-24 10:28:15.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=29, gap=55, min=55, max=235, avg=102, sum=2952, lose=0)
+2024-05-24 10:28:16.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=29, gap=55, min=55, max=235, avg=102, sum=2952, lose=0)
+2024-05-24 10:28:17.146 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=30, gap=190, min=55, max=235, avg=105, sum=3142, lose=0)
+2024-05-24 10:28:18.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=31, gap=126, min=55, max=235, avg=105, sum=3268, lose=0)
+2024-05-24 10:28:19.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=32, gap=136, min=55, max=235, avg=106, sum=3404, lose=0)
+2024-05-24 10:28:20.144 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=33, gap=165, min=55, max=235, avg=108, sum=3569, lose=0)
+2024-05-24 10:28:21.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=33, gap=165, min=55, max=235, avg=108, sum=3569, lose=0)
+2024-05-24 10:28:22.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=34, gap=125, min=55, max=235, avg=109, sum=3694, lose=0)
+2024-05-24 10:28:23.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=35, gap=142, min=55, max=235, avg=110, sum=3836, lose=0)
+2024-05-24 10:28:24.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=36, gap=84, min=55, max=235, avg=109, sum=3920, lose=0)
+2024-05-24 10:28:25.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=37, gap=73, min=55, max=235, avg=108, sum=3993, lose=0)
+2024-05-24 10:28:26.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=38, gap=96, min=55, max=235, avg=108, sum=4089, lose=0)
+2024-05-24 10:28:27.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=39, gap=63, min=55, max=235, avg=106, sum=4152, lose=0)
+2024-05-24 10:28:28.145 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=40, gap=86, min=55, max=235, avg=106, sum=4238, lose=0)
+2024-05-24 10:28:29.147 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=40, gap=86, min=55, max=235, avg=106, sum=4238, lose=0)
+2024-05-24 10:28:30.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=41, gap=89, min=55, max=235, avg=106, sum=4327, lose=0)
+2024-05-24 10:28:31.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=42, gap=108, min=55, max=235, avg=106, sum=4435, lose=0)
+2024-05-24 10:28:32.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=43, gap=135, min=55, max=235, avg=106, sum=4570, lose=0)
+2024-05-24 10:28:33.144 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=44, gap=103, min=55, max=235, avg=106, sum=4673, lose=0)
+2024-05-24 10:28:34.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=44, gap=103, min=55, max=235, avg=106, sum=4673, lose=0)
+2024-05-24 10:28:35.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=45, gap=120, min=55, max=235, avg=107, sum=4793, lose=0)
+2024-05-24 10:28:36.146 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=46, gap=144, min=55, max=235, avg=107, sum=4937, lose=0)
+2024-05-24 10:28:37.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=47, gap=149, min=55, max=235, avg=108, sum=5086, lose=0)
+2024-05-24 10:28:38.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=47, gap=149, min=55, max=235, avg=108, sum=5086, lose=0)
+2024-05-24 10:28:39.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=48, gap=116, min=55, max=235, avg=108, sum=5202, lose=0)
+2024-05-24 10:28:40.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=49, gap=140, min=55, max=235, avg=109, sum=5342, lose=0)
+2024-05-24 10:28:41.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=50, gap=157, min=55, max=235, avg=110, sum=5499, lose=0)
+2024-05-24 10:28:42.145 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=51, gap=162, min=55, max=235, avg=111, sum=5661, lose=0)
+2024-05-24 10:28:43.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=51, gap=162, min=55, max=235, avg=111, sum=5661, lose=0)
+2024-05-24 10:28:44.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=52, gap=196, min=55, max=235, avg=113, sum=5857, lose=0)
+2024-05-24 10:28:45.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=53, gap=142, min=55, max=235, avg=113, sum=5999, lose=0)
+2024-05-24 10:28:46.148 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716514060106, count=54, gap=174, min=55, max=235, avg=114, sum=6173, lose=0)
+2024-05-24 12:14:56.959 [restartedMain] INFO  c.e.w.WebsocketClientApplication - Starting WebsocketClientApplication using Java 21.0.3 with PID 6775 (/Users/b-user/IdeaProjects/globalex/websocket-client/build/classes/java/main started by b-user in /Users/b-user/IdeaProjects/globalex)
+2024-05-24 12:14:56.960 [restartedMain] INFO  c.e.w.WebsocketClientApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-24 12:14:56.973 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-24 12:14:56.973 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-24 12:14:57.250 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 0 (http)
+2024-05-24 12:14:57.254 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-auto-1"]
+2024-05-24 12:14:57.254 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-24 12:14:57.254 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-24 12:14:57.267 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-24 12:14:57.267 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 294 ms
+2024-05-24 12:14:57.570 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-05-24 12:14:57.576 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-auto-1"]
+2024-05-24 12:14:57.579 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 57013 (http) with context path ''
+2024-05-24 12:14:57.583 [restartedMain] INFO  c.e.w.WebsocketClientApplication - Started WebsocketClientApplication in 0.778 seconds (process running for 1.155)
+2024-05-24 12:14:58.326 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520497283, count=0, gap=0, min=9999, max=0, avg=0, sum=0, lose=0)
+2024-05-24 12:14:59.320 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520497283, count=0, gap=0, min=9999, max=0, avg=0, sum=0, lose=0)
+2024-05-24 12:15:00.320 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520497283, count=0, gap=0, min=9999, max=0, avg=0, sum=0, lose=0)
+2024-05-24 12:15:01.320 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520497283, count=0, gap=0, min=9999, max=0, avg=0, sum=0, lose=0)
+2024-05-24 12:15:02.320 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520497283, count=0, gap=0, min=9999, max=0, avg=0, sum=0, lose=0)
+2024-05-24 12:15:03.320 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520497283, count=0, gap=0, min=9999, max=0, avg=0, sum=0, lose=0)
+2024-05-24 12:15:04.315 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520497283, count=0, gap=0, min=9999, max=0, avg=0, sum=0, lose=0)
+2024-05-24 12:15:05.320 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520497283, count=0, gap=0, min=9999, max=0, avg=0, sum=0, lose=0)
+2024-05-24 12:15:34.044 [restartedMain] INFO  c.e.w.WebsocketClientApplication - Starting WebsocketClientApplication using Java 21.0.3 with PID 6780 (/Users/b-user/IdeaProjects/globalex/websocket-client/build/classes/java/main started by b-user in /Users/b-user/IdeaProjects/globalex)
+2024-05-24 12:15:34.045 [restartedMain] INFO  c.e.w.WebsocketClientApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-24 12:15:34.058 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-24 12:15:34.058 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-24 12:15:34.345 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 0 (http)
+2024-05-24 12:15:34.349 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-auto-1"]
+2024-05-24 12:15:34.350 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-24 12:15:34.350 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-24 12:15:34.363 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-24 12:15:34.363 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 305 ms
+2024-05-24 12:15:34.551 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-05-24 12:15:34.558 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-auto-1"]
+2024-05-24 12:15:34.561 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 57021 (http) with context path ''
+2024-05-24 12:15:34.565 [restartedMain] INFO  c.e.w.WebsocketClientApplication - Started WebsocketClientApplication in 0.68 seconds (process running for 0.907)
+2024-05-24 12:15:35.419 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520534379, count=1, gap=46, min=46, max=46, avg=46, sum=46, lose=0)
+2024-05-24 12:15:36.414 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520534379, count=1, gap=46, min=46, max=46, avg=46, sum=46, lose=0)
+2024-05-24 12:15:37.417 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520534379, count=3, gap=56, min=46, max=132, avg=78, sum=234, lose=0)
+2024-05-24 12:15:38.417 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520534379, count=3, gap=56, min=46, max=132, avg=78, sum=234, lose=0)
+2024-05-24 12:15:39.412 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520534379, count=4, gap=36, min=36, max=132, avg=68, sum=270, lose=0)
+2024-05-24 12:15:40.412 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520534379, count=5, gap=53, min=36, max=132, avg=65, sum=323, lose=0)
+2024-05-24 12:16:47.758 [restartedMain] INFO  c.e.w.WebsocketClientApplication - Starting WebsocketClientApplication using Java 21.0.3 with PID 6785 (/Users/b-user/IdeaProjects/globalex/websocket-client/build/classes/java/main started by b-user in /Users/b-user/IdeaProjects/globalex)
+2024-05-24 12:16:47.759 [restartedMain] INFO  c.e.w.WebsocketClientApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-24 12:16:47.772 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-24 12:16:47.772 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-24 12:16:48.057 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 0 (http)
+2024-05-24 12:16:48.062 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-auto-1"]
+2024-05-24 12:16:48.063 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-24 12:16:48.063 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-24 12:16:48.077 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-24 12:16:48.077 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 305 ms
+2024-05-24 12:16:48.248 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-05-24 12:16:48.254 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-auto-1"]
+2024-05-24 12:16:48.257 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 57032 (http) with context path ''
+2024-05-24 12:16:48.261 [restartedMain] INFO  c.e.w.WebsocketClientApplication - Started WebsocketClientApplication in 0.662 seconds (process running for 1.019)
+2024-05-24 12:16:49.142 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520608096, count=0, gap=0, min=9999, max=0, avg=0, sum=0, lose=0)
+2024-05-24 12:16:50.135 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520608096, count=1, gap=69, min=69, max=69, avg=69, sum=69, lose=0)
+2024-05-24 12:16:51.135 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520608096, count=2, gap=45, min=45, max=69, avg=57, sum=114, lose=0)
+2024-05-24 12:16:52.131 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520608096, count=3, gap=101, min=45, max=101, avg=72, sum=215, lose=0)
+2024-05-24 12:16:53.135 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520608096, count=3, gap=101, min=45, max=101, avg=72, sum=215, lose=0)
+2024-05-24 12:16:54.135 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520608096, count=4, gap=123, min=45, max=123, avg=85, sum=338, lose=0)
+2024-05-24 12:16:55.131 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520608096, count=5, gap=115, min=45, max=123, avg=91, sum=453, lose=0)
+2024-05-24 12:16:56.135 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520608096, count=6, gap=81, min=45, max=123, avg=89, sum=534, lose=0)
+2024-05-24 12:16:57.133 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520608096, count=6, gap=81, min=45, max=123, avg=89, sum=534, lose=0)
+2024-05-24 12:16:58.135 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520608096, count=7, gap=113, min=45, max=123, avg=92, sum=647, lose=0)
+2024-05-24 12:16:59.135 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520608096, count=8, gap=106, min=45, max=123, avg=94, sum=753, lose=0)
+2024-05-24 12:17:00.135 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520608096, count=9, gap=81, min=45, max=123, avg=93, sum=834, lose=0)
+2024-05-24 12:17:01.135 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520608096, count=10, gap=147, min=45, max=147, avg=98, sum=981, lose=0)
+2024-05-24 12:17:02.135 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520608096, count=11, gap=61, min=45, max=147, avg=95, sum=1042, lose=0)
+2024-05-24 12:17:24.284 [restartedMain] INFO  c.e.w.WebsocketClientApplication - Starting WebsocketClientApplication using Java 21.0.3 with PID 6789 (/Users/b-user/IdeaProjects/globalex/websocket-client/build/classes/java/main started by b-user in /Users/b-user/IdeaProjects/globalex)
+2024-05-24 12:17:24.285 [restartedMain] INFO  c.e.w.WebsocketClientApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-24 12:17:24.298 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-24 12:17:24.298 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-24 12:17:24.585 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 0 (http)
+2024-05-24 12:17:24.589 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-auto-1"]
+2024-05-24 12:17:24.589 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-24 12:17:24.590 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-24 12:17:24.602 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-24 12:17:24.603 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 305 ms
+2024-05-24 12:17:24.778 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-05-24 12:17:24.785 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-auto-1"]
+2024-05-24 12:17:24.788 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 57044 (http) with context path ''
+2024-05-24 12:17:24.793 [restartedMain] INFO  c.e.w.WebsocketClientApplication - Started WebsocketClientApplication in 0.669 seconds (process running for 0.899)
+2024-05-24 12:17:25.666 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520644619, count=0, gap=0, min=9999, max=0, avg=0, sum=0, lose=0)
+2024-05-24 12:17:26.659 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520644619, count=1, gap=72, min=72, max=72, avg=72, sum=72, lose=0)
+2024-05-24 12:17:27.659 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520644619, count=2, gap=57, min=57, max=72, avg=65, sum=129, lose=0)
+2024-05-24 12:17:28.659 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520644619, count=3, gap=200, min=57, max=200, avg=110, sum=329, lose=0)
+2024-05-24 12:17:29.658 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520644619, count=4, gap=166, min=57, max=200, avg=124, sum=495, lose=0)
+2024-05-24 12:17:30.659 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520644619, count=4, gap=166, min=57, max=200, avg=124, sum=495, lose=0)
+2024-05-24 12:17:31.659 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520644619, count=5, gap=87, min=57, max=200, avg=116, sum=582, lose=0)
+2024-05-24 12:17:32.659 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520644619, count=6, gap=53, min=53, max=200, avg=106, sum=635, lose=0)
+2024-05-24 12:17:33.659 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520644619, count=7, gap=117, min=53, max=200, avg=107, sum=752, lose=0)
+2024-05-24 12:17:34.659 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520644619, count=7, gap=117, min=53, max=200, avg=107, sum=752, lose=0)
+2024-05-24 12:17:35.659 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520644619, count=8, gap=78, min=53, max=200, avg=104, sum=830, lose=0)
+2024-05-24 12:17:36.656 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520644619, count=9, gap=63, min=53, max=200, avg=99, sum=893, lose=0)
+2024-05-24 12:17:37.659 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520644619, count=10, gap=131, min=53, max=200, avg=102, sum=1024, lose=0)
+2024-05-24 12:20:46.405 [restartedMain] INFO  c.e.w.WebsocketRelayApplication - Starting WebsocketRelayApplication using Java 21.0.3 with PID 6804 (/Users/b-user/IdeaProjects/globalex/websocket-relay/build/classes/java/main started by b-user in /Users/b-user/IdeaProjects/globalex)
+2024-05-24 12:20:46.405 [restartedMain] INFO  c.e.w.WebsocketRelayApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-24 12:20:46.418 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-24 12:20:46.418 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-24 12:20:46.698 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-05-24 12:20:46.702 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-24 12:20:46.702 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-24 12:20:46.703 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-24 12:20:46.715 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-24 12:20:46.715 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 297 ms
+2024-05-24 12:20:46.884 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-05-24 12:20:46.890 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-24 12:20:46.893 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-05-24 12:20:46.897 [restartedMain] INFO  c.e.w.WebsocketRelayApplication - Started WebsocketRelayApplication in 0.654 seconds (process running for 0.883)
+2024-05-24 12:20:50.637 [restartedMain] INFO  c.e.w.WebsocketClientApplication - Starting WebsocketClientApplication using Java 21.0.3 with PID 6806 (/Users/b-user/IdeaProjects/globalex/websocket-client/build/classes/java/main started by b-user in /Users/b-user/IdeaProjects/globalex)
+2024-05-24 12:20:50.637 [restartedMain] INFO  c.e.w.WebsocketClientApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-24 12:20:50.650 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-24 12:20:50.650 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-24 12:20:50.932 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 0 (http)
+2024-05-24 12:20:50.936 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-auto-1"]
+2024-05-24 12:20:50.937 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-24 12:20:50.937 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-24 12:20:50.949 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-24 12:20:50.949 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 298 ms
+2024-05-24 12:20:51.044 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-24 12:20:51.044 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-05-24 12:20:51.045 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-05-24 12:20:51.107 [restartedMain] WARN  o.s.b.d.a.OptionalLiveReloadServer - Unable to start LiveReload server
+2024-05-24 12:20:51.113 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-auto-1"]
+2024-05-24 12:20:51.116 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 57071 (http) with context path ''
+2024-05-24 12:20:51.119 [restartedMain] INFO  c.e.w.WebsocketClientApplication - Started WebsocketClientApplication in 0.647 seconds (process running for 0.865)
+2024-05-24 12:20:52.008 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520850965, count=1, gap=110, min=110, max=110, avg=110, sum=110, lose=0)
+2024-05-24 12:20:53.003 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520850965, count=2, gap=97, min=97, max=110, avg=104, sum=207, lose=0)
+2024-05-24 12:20:54.003 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520850965, count=3, gap=65, min=65, max=110, avg=91, sum=272, lose=0)
+2024-05-24 12:20:55.003 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520850965, count=3, gap=65, min=65, max=110, avg=91, sum=272, lose=0)
+2024-05-24 12:20:56.003 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520850965, count=4, gap=173, min=65, max=173, avg=111, sum=445, lose=0)
+2024-05-24 12:20:57.002 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520850965, count=5, gap=159, min=65, max=173, avg=121, sum=604, lose=0)
+2024-05-24 12:20:58.002 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520850965, count=6, gap=96, min=65, max=173, avg=117, sum=700, lose=0)
+2024-05-24 12:20:58.999 [summary-1] INFO  c.e.websocketclient.service.Summary - Summary(startTimeMillis=1716520850965, count=7, gap=62, min=62, max=173, avg=109, sum=762, lose=0)
+2024-05-24 12:20:59.340 [WebSocketClient-AsyncIO-9] ERROR c.e.w.handler.MyWebSocketClient - connection closed
